@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=YoungJi&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ficecandywell&count_bg=%2379C83D&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=YoungJi&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFE5CC&text=어제보다%20오늘%20더%20성장하는%20개발자!&fontSize=40&&fontColor=000000)
