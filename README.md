@@ -33,7 +33,7 @@ HTML5/CSS3와 Bootstrap 등을 활용해 프론트앤드 개발자로서 역량�
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools
+#### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23606060.svg?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23808080.svg?style=for-the-badge)
