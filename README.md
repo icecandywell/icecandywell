@@ -8,7 +8,6 @@ HTML5/CSS3와 Bootstrap 등을 활용해 프론트앤드 개발자로서 역량�
 
 ### 📋 보유 기술
 ---
-### 주 기술
 #### Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -47,7 +46,7 @@ HTML5/CSS3와 Bootstrap 등을 활용해 프론트앤드 개발자로서 역량�
 ### 🖥️ 프로젝트
 ---
 
-1. 팀 프로젝트
+#### 팀 프로젝트
    - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/icecandywell/recetA)
    - [병충해 정보 예측 및 관리 서비스_진행중](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/Alsseulnongjab)
 
