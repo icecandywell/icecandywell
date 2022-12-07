@@ -46,7 +46,7 @@ HTML5/CSS3와 Bootstrap 등을 활용해 프론트앤드 개발자로서 역량�
 ### 🖥️ 프로젝트
 ---
 
-#### 팀 프로젝트
+#### (주)스마트인재개발원 '빅데이터 분석서비스' 개발자 과정 수강 중 팀 프로젝트
    - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/icecandywell/recetA)
    - [병충해 정보 예측 및 관리 서비스_진행중](https://github.com/2022-SMHRD-KDT-DCX-BIgData-1/Alsseulnongjab)
 
@@ -60,7 +60,7 @@ HTML5/CSS3와 Bootstrap 등을 활용해 프론트앤드 개발자로서 역량�
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icecandywell&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icecandywell&layout=compact)](https://github.com/icecandywell/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icecandywell&layout=compact)](https://github.com/icecandywell/github-readme-stats) -->
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
