@@ -1,9 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ficecandywell&count_bg=%2379C83D&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=YoungJi&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFE5CC&text=어제보다%20오늘%20더%20성장하는%20개발자!&fontSize=40&&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFE5CC&text=어제보다%20오늘%20더%20성장하는%20프론트앤드%20개발자!&fontSize=40&&fontColor=000000)
 
-HTML5/CSS3와 Bootstrap 등을 활용해 프론트앤드 개발자로서 역량을 키워나가는 중입니다.
+##### HTML5/CSS3와 Bootstrap 등을 활용해 프론트앤드 개발자로서 역량을 키워나가는 중입니다.
+##### 현재 (사)스마트인재개발원 '빅데이터 분석 서비스'개발자 과정 수료중이니다. (2022.06.20~2022.12.14)
 
 
 ### 📋 보유 기술
