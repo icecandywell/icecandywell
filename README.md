@@ -49,7 +49,7 @@
 
 #### (사)스마트인재개발원 '빅데이터 분석서비스' 개발자 과정 수강 중 팀 프로젝트
    - [부트스트랩을 활용한 레시피 추천 서비스](https://github.com/icecandywell/recetA)
-   - [병충해 정보 예측 및 관리 서비스_진행중](https://github.com/icecandywell/ASNJ_test)
+   - [병충해 정보 예측 및 관리 서비스](https://github.com/icecandywell/ASNJ_test)
 
 <!-- 1. 개인 프로젝트
   - [일정 관리 웹사이트_진행중](https://github.com/kdn00/SpringProject)
